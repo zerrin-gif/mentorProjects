@@ -1,0 +1,1 @@
+tweet length has been calculated.
